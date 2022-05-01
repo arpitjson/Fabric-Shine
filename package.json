@@ -17,6 +17,7 @@
     "express-session": "^1.17.2",
     "express3-handlebars": "^0.5.2",
     "handlebars": "^4.7.7",
+    "minimatch": "^5.0.1",
     "multiparty": "^4.2.3",
     "nodemailer": "^6.7.4",
     "nodemon": "^2.0.16"
